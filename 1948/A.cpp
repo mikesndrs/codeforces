@@ -9,7 +9,6 @@ typedef long long ll;
 using namespace std;
 
 int main() {
-  ll input;
   string line;
   int idx = 0;
   getline(cin, line);
