@@ -1,1 +1,4 @@
 output.txt
+gmon.out
+profiler_output.txt
+.vscode
